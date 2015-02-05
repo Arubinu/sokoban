@@ -5,7 +5,7 @@ Le jeu le plus refait au monde qui fait parti de l'apprentissage en C ou C++.
 
 Voici un aperçu du rendu ( développé en C )
 
-![Démo du jeu](/small.png?raw=true "Démo du jeu")
+![Démo du jeu](/small.jpg?raw=true "Démo du jeu")
 
 ## Clavier
 
