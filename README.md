@@ -10,7 +10,7 @@ Voici un aperçu du rendu ( développé en C )
 ## Clavier
 
 Les touches par défaut :
- - Haut, Bas, Gauche, Droite : déplacement sur chaque élément,
+ - Haut, Bas, Gauche, Droite : déplacement du carré représentant le joueur,
  - Touche échap : Retourne au menu et/ou quitte le jeu.
 
 ## Notes
